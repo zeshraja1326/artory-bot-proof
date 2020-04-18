@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Header = () => (
-        <nav style={{backgroundColor: '#333333'}}>
+        <nav style={{backgroundColor: '#333666'}}>
             <div className="nav-wrapper">
                 <Link to={'/'} className="brand-logo"><img alt="Artory Logo" src="./logo.png" width="50px" height="60px" style={{paddingLeft: 10}}></img></Link>
                 <ul id="nav-mobile" className="right hide-on-med-and-down">
